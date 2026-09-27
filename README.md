@@ -1,5 +1,28 @@
-# Vue 3 + Vite
+# Activity 13-14 — Pokémon app (Vue 3 + Vite)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Actividad académica: aplicación con **Vue 3 + Vite** (componentes SFC con `<script setup>`).
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Requisitos
+
+- Node.js 18+ y npm
+
+## Desarrollo
+
+```bash
+npm install
+npm run dev      # servidor de desarrollo
+npm run build    # compilar a producción
+npm run preview  # previsualizar la compilación
+```
+
+## Estructura
+
+```
+src/             # App.vue, main.js, componentes y assets
+public/          # estáticos (favicon, iconos)
+vite.config.js   # configuración de Vite
+```
+
+## Notas
+
+Proyecto con fines académicos (Universidad Tecmilenio).
